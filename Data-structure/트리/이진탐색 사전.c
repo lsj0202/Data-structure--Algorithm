@@ -125,3 +125,4 @@ int main(){
     }while (command != 'q');
     return 0;
 }
+/*이진탐색 문제*/
